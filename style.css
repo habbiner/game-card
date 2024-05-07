@@ -6,7 +6,7 @@ html {
     justify-content: center;
     align-items: center;
     /* background-color: aliceblue; */
-    background-image: url(/zzzzz\ Prova\ 1/img/fundo.jpeg);
+    background-image: url(img/fundo.jpeg);
 }
 
 #app {
